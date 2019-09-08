@@ -1,6 +1,6 @@
 # contador_pessoas
 
-A new Flutter project.
+Primeiro projeto usando flutter.
 
 ## Getting Started
 
